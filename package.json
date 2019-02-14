@@ -1,6 +1,6 @@
 {
   "name": "react-form-input-handler",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Tiny utility for working with multiple inputs",
   "main": "dist/react-form-input-handler.js",
   "umd:main": "dist/react-form-input-handler.umd.js",
