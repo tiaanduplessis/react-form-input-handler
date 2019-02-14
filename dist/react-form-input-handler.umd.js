@@ -1,0 +1,1 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):e.reactFormInputHandler=t()}(this,function(){return function(e){var t;if(!this.setState)throw Error("Form input handler not bound to Component");var n=e.target;this.setState(((t={})[n.name]="checkbox"===n.type?n.checked:n.value,t))}});
